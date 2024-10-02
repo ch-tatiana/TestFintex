@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\bin\Debug\net8.0\AgeComparator.exe
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\bin\Debug\net8.0\AgeComparator.deps.json
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\bin\Debug\net8.0\AgeComparator.runtimeconfig.json
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\bin\Debug\net8.0\AgeComparator.dll
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\bin\Debug\net8.0\AgeComparator.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\obj\Debug\net8.0\AgeComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\obj\Debug\net8.0\AgeComparator.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\obj\Debug\net8.0\AgeComparator.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\obj\Debug\net8.0\AgeComparator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\obj\Debug\net8.0\AgeComparator.dll
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\obj\Debug\net8.0\refint\AgeComparator.dll
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\obj\Debug\net8.0\AgeComparator.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\obj\Debug\net8.0\AgeComparator.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Рабочий стол\AgeComparator\obj\Debug\net8.0\ref\AgeComparator.dll
